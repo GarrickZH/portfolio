@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  backgroynd-color: #333;
+  background-color: #333;
 }
 li {
   display: inline;
@@ -18,13 +18,14 @@ li a {
 }
 li a:hover {
   background color: #111;
+}
 p {
-  font-family:"Times New Roman", serif;
+  font-family: "Times New Roman", serif;
   font-size: 24px;
   color: #02b6ff;
 }
 h2 {
-  font-family:"Arial", serif;
+  font-family: "Arial", serif;
   font-size: 24px;
   color: #02b6ff;
 }
