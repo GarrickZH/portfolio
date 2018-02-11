@@ -34,4 +34,8 @@ h2 {
   border-style:solid;
   border-color:white;
   border-width:2px 2px 2px 2px
+    padding-top:4px
+    padding-right:4px
+    padding-bottom:4px
+    padding-left:4px
 }
