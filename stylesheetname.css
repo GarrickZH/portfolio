@@ -19,6 +19,9 @@ li a {
 li a:hover {
   background color: #111;
 }
+body {
+  background: black;
+}
 p {
   font-family: "Times New Roman", serif;
   font-size: 24px;
