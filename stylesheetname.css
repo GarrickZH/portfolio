@@ -17,7 +17,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background color: #333;
+  background color: #02b6ff;
 }
 body {
   background: black;
@@ -33,5 +33,5 @@ h2 {
   color: #02b6ff;
   border-style:solid;
   border-color:white;
-  border-width:3px 6px 3px 6px
+  border-width:1px 2px 1px 2px
 }
