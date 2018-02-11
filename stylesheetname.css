@@ -17,7 +17,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background color: #111;
+  background color: #333;
 }
 body {
   background: black;
