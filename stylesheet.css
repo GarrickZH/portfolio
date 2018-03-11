@@ -20,7 +20,7 @@ li a:hover {
   background-color: #cecece;
 }
 body {
-  background: blue;
+  background: white url("https://github.com/GarrickZH/portfolio/blob/master/500186335.png?raw=true") no-repeat fixed center; ;
 }
 p {
   font-family: "Times New Roman", serif;
