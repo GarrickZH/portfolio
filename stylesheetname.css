@@ -41,31 +41,3 @@ h2 {
   padding-left: 4px;
   margin-right: 0;
 }
-.city {
-  font-family: "Arial", serif;
-  font-size: 24px;
-  background-color: #00b2ff;
-  color: #dadada;
-  border-style:solid;
-  border-color: white;
-  border-width: 2px 2px 2px 2px;
-  padding-top: 4px;
-  padding-right: 4px;
-  padding-bottom: 4px;
-  padding-left: 4px;
-  margin-right: 0;
-}
-#myHeader {
-  font-family: "Arial", serif;
-  font-size: 24px;
-  background-color: #dadada;
-  color: #02b6ff;
-  border-style:solid;
-  border-color: white;
-  border-width: 2px 2px 2px 2px;
-  padding-top: 4px;
-  padding-right: 4px;
-  padding-bottom: 4px;
-  padding-left: 4px;
-  margin-right: 0;
-} 
