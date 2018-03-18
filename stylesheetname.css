@@ -41,15 +41,14 @@ h2 {
   padding-left: 4px;
   margin-right: 0;
 }
-<style>
 .city {
   background-color: #00b2ff;
   color: white;
   padding: 10px;
+}
 #myHeader {
     background-color: lightblue;
     color: black;
     padding: 40px;
     text-align: center;
 } 
-  </style>
