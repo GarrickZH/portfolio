@@ -30,6 +30,7 @@ p {
 h2 {
   font-family: "Arial", serif;
   font-size: 24px;
+  background-color: #dadada;
   color: #02b6ff;
   border-style:solid;
   border-color: white;
@@ -41,6 +42,6 @@ h2 {
   margin-right: 0;
 }
 .city {
-  background-color: tomato;
+  background-color: #00b2ff;
   color: white;
   padding: 10px;
