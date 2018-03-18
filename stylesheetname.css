@@ -43,12 +43,24 @@ h2 {
 }
 .city {
   background-color: #00b2ff;
-  color: white;
-  padding: 10px;
+  color: #dadada;
+  border-style:solid;
+  border-color: white;
+  border-width: 2px 2px 2px 2px;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
 }
 #myHeader {
-    background-color: lightblue;
-    color: black;
-    padding: 15px;
-    text-align: center;
+  background-color: #dadada;
+  color: #02b6ff;
+  border-style:solid;
+  border-color: white;
+  border-width: 2px 2px 2px 2px;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  text-align: left;
 } 
